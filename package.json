@@ -1,6 +1,6 @@
 {
   "name": "tow-track",
-  "homepage": "https://<your-github-username>.github.io/<repository-name>",
+  "homepage": "https://github.com/irailcha/tow-track-project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
